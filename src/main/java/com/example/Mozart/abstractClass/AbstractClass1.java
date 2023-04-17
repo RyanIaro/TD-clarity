@@ -2,6 +2,7 @@ package com.example.Mozart.abstractClass;
 
 import com.example.Mozart.dependance.ConcreteDependance1;
 import com.example.Mozart.dependance.ConcreteDependance2;
+import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Component;
 
 @Component
